@@ -1,0 +1,231 @@
+[
+  {
+    "id": "a8f7d21d-c290-442d-afca-0d117d87114a",
+    "username": "vj123",
+    "email": "",
+    "password": "$2b$10$31yafZfwpGFt1gboVTgCcOUATGuZrdELm35NRIz7jr3mdAYiw1LiG",
+    "role": "user",
+    "createdAt": "2026-03-17T04:58:52.078Z",
+    "quizHistory": [
+      {
+        "subject": "general_knowledge",
+        "topic": "world_geography",
+        "subtopic": "capitals",
+        "score": 10,
+        "total": 10,
+        "maxScore": 10,
+        "correct": 10,
+        "wrong": 0,
+        "date": "2026-03-17"
+      }
+    ]
+  },
+  {
+    "id": "787bb0b4-584e-4daa-b0ed-78541a5876bc",
+    "username": "akash",
+    "email": "",
+    "password": "$2b$10$X4uRQaj84qJWomgxDOuuferxbnik/zaKajNSZ1PppsSn8CvQX/EUS",
+    "role": "user",
+    "createdAt": "2026-03-17T05:17:03.626Z",
+    "quizHistory": [
+      {
+        "subject": "computer_science",
+        "topic": "programming",
+        "subtopic": "java",
+        "score": 0.75,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 1,
+        "wrong": 1,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "programming",
+        "subtopic": "java",
+        "score": 0.75,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 1,
+        "wrong": 1,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "programming",
+        "subtopic": "java",
+        "score": 0.75,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 1,
+        "wrong": 1,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "programming",
+        "subtopic": "java",
+        "score": 0.75,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 1,
+        "wrong": 1,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "programming",
+        "subtopic": "java",
+        "score": 0.75,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 1,
+        "wrong": 1,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "programming",
+        "subtopic": "java",
+        "score": 0.75,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 1,
+        "wrong": 1,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "programming",
+        "subtopic": "java",
+        "score": 0.75,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 1,
+        "wrong": 1,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "programming",
+        "subtopic": "java",
+        "score": 0.75,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 1,
+        "wrong": 1,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "databases",
+        "subtopic": "sql_basics",
+        "score": 0,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 0,
+        "wrong": 0,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "databases",
+        "subtopic": "sql_basics",
+        "score": 0,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 0,
+        "wrong": 0,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "databases",
+        "subtopic": "sql_basics",
+        "score": 0,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 0,
+        "wrong": 0,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "databases",
+        "subtopic": "sql_basics",
+        "score": 0,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 0,
+        "wrong": 0,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "databases",
+        "subtopic": "sql_basics",
+        "score": 0,
+        "total": 10,
+        "maxScore": 10,
+        "correct": 0,
+        "wrong": 0,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "databases",
+        "subtopic": "sql_basics",
+        "score": 0,
+        "total": 10,
+        "maxScore": 10,
+        "correct": 0,
+        "wrong": 0,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "databases",
+        "subtopic": "sql_basics",
+        "score": 0,
+        "total": 10,
+        "maxScore": 10,
+        "correct": 0,
+        "wrong": 0,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "databases",
+        "subtopic": "sql_basics",
+        "score": 0,
+        "total": 10,
+        "maxScore": 10,
+        "correct": 0,
+        "wrong": 0,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "programming",
+        "subtopic": "java",
+        "score": 0.75,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 1,
+        "wrong": 1,
+        "date": "2026-03-17"
+      },
+      {
+        "subject": "computer_science",
+        "topic": "programming",
+        "subtopic": "java",
+        "score": 0.75,
+        "total": 5,
+        "maxScore": 5,
+        "correct": 1,
+        "wrong": 1,
+        "date": "2026-03-17"
+      }
+    ]
+  }
+]

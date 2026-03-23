@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Computer Science",
+    "slug": "computer_science",
+    "topics": [
+      {
+        "name": "Programming",
+        "slug": "programming",
+        "subtopics": [
+          {
+            "name": "Java",
+            "slug": "java"
+          },
+          {
+            "name": "Python",
+            "slug": "python"
+          }
+        ]
+      },
+      {
+        "name": "Databases",
+        "slug": "databases",
+        "subtopics": [
+          {
+            "name": "SQL Basics",
+            "slug": "sql_basics"
+          }
+        ]
+      },
+      {
+        "name": "test",
+        "slug": "test",
+        "subtopics": []
+      }
+    ]
+  },
+  {
+    "name": "General Knowledge",
+    "slug": "general_knowledge",
+    "topics": [
+      {
+        "name": "World Geography",
+        "slug": "world_geography",
+        "subtopics": [
+          {
+            "name": "Capitals",
+            "slug": "capitals"
+          }
+        ]
+      }
+    ]
+  }
+]

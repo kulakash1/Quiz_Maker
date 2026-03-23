@@ -1,0 +1,13 @@
+{
+  "name": "quiz-maker",
+  "version": "1.0.0",
+  "description": "Full-stack Quiz Maker Application",
+  "scripts": {
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "start": "npm run backend"
+  },
+  "keywords": ["quiz", "education", "react", "express"],
+  "license": "MIT"
+}

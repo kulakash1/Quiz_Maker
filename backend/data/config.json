@@ -1,0 +1,7 @@
+{
+  "timerPerQuestion": 30,
+  "marksPerQuestion": 1,
+  "negativeMarks": 0.25,
+  "numberOfQuestions": 10,
+  "numberOfOptions": 4
+}

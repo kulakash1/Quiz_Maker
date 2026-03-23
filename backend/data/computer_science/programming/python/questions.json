@@ -1,0 +1,16 @@
+{
+  "questions": [
+    { "question": "Who created Python?", "answer": "Guido van Rossum" },
+    { "question": "What is PEP 8?", "answer": "Python style guide" },
+    { "question": "Which keyword is used for anonymous functions in Python?", "answer": "lambda" },
+    { "question": "What data type is used for key-value pairs in Python?", "answer": "dictionary" },
+    { "question": "How do you define a function in Python?", "answer": "def" },
+    { "question": "What does GIL stand for in Python?", "answer": "Global Interpreter Lock" },
+    { "question": "Which method is used to add an element to a list in Python?", "answer": "append" },
+    { "question": "What is the output type of the range() function?", "answer": "range object" },
+    { "question": "Which Python library is used for data manipulation?", "answer": "pandas" },
+    { "question": "What symbol is used for comments in Python?", "answer": "#" },
+    { "question": "What is slicing in Python?", "answer": "Extracting a subset from a sequence" },
+    { "question": "Which statement is used to handle exceptions in Python?", "answer": "try-except" }
+  ]
+}

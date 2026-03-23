@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "What does SQL stand for?", "answer": "Structured Query Language" },
+    { "question": "Which SQL command is used to retrieve data?", "answer": "SELECT" },
+    { "question": "Which SQL command adds a new row?", "answer": "INSERT" },
+    { "question": "Which SQL command removes a row?", "answer": "DELETE" },
+    { "question": "What is a primary key?", "answer": "A unique identifier for each record" },
+    { "question": "What is a foreign key?", "answer": "A field linking two tables" },
+    { "question": "Which clause filters rows in SQL?", "answer": "WHERE" },
+    { "question": "What command is used to sort results in SQL?", "answer": "ORDER BY" },
+    { "question": "What does JOIN do in SQL?", "answer": "Combines rows from multiple tables" },
+    { "question": "What is a NULL value in SQL?", "answer": "Absence of a value" }
+  ]
+}

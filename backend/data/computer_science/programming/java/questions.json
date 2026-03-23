@@ -1,0 +1,19 @@
+{
+  "questions": [
+    { "question": "Who invented Java?", "answer": "James Gosling" },
+    { "question": "What is the full form of JVM?", "answer": "Java Virtual Machine" },
+    { "question": "Which keyword is used to inherit a class in Java?", "answer": "extends" },
+    { "question": "What is the default value of an int in Java?", "answer": "0" },
+    { "question": "Which method is the entry point of a Java program?", "answer": "main" },
+    { "question": "What is the parent class of all classes in Java?", "answer": "Object" },
+    { "question": "Which exception is thrown when dividing by zero in Java?", "answer": "ArithmeticException" },
+    { "question": "What is the size of an int in Java?", "answer": "32 bits" },
+    { "question": "Which package is imported by default in Java?", "answer": "java.lang" },
+    { "question": "What does OOP stand for?", "answer": "Object Oriented Programming" },
+    { "question": "What is polymorphism?", "answer": "The ability of an object to take many forms" },
+    { "question": "What keyword is used to create an object in Java?", "answer": "new" },
+    { "question": "What is the use of 'final' keyword in Java?", "answer": "To prevent modification" },
+    { "question": "What is a constructor in Java?", "answer": "A special method to initialize objects" },
+    { "question": "Which interface allows sorting in Java?", "answer": "Comparable" }
+  ]
+}
