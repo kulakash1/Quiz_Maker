@@ -227,5 +227,37 @@
         "date": "2026-03-17"
       }
     ]
+  },
+  {
+    "id": "e14a94c4-94ab-4a23-bfaf-0a52eaf2a1f6",
+    "username": "ak123",
+    "email": "",
+    "password": "$2b$10$2SmCb8l4kocGzXoUpIJjFe3ybJd6KYT4N6o8GVBu/0d5mI2hjQgAa",
+    "role": "user",
+    "createdAt": "2026-04-13T17:19:40.657Z",
+    "quizHistory": [
+      {
+        "subject": "general_knowledge",
+        "topic": "world_geography",
+        "subtopic": "capitals",
+        "score": 6.25,
+        "total": 10,
+        "maxScore": 10,
+        "correct": 7,
+        "wrong": 3,
+        "date": "2026-04-13"
+      },
+      {
+        "subject": "general_knowledge",
+        "topic": "world_geography",
+        "subtopic": "capitals",
+        "score": 6.25,
+        "total": 10,
+        "maxScore": 10,
+        "correct": 7,
+        "wrong": 3,
+        "date": "2026-04-13"
+      }
+    ]
   }
 ]
