@@ -1,14 +1,6 @@
 {
-  "services": {
-    "frontend": {
-      "path": "frontend",
-      "routePrefix": "/",
-      "framework": "vite"
-    },
-    "backend": {
-      "path": "backend",
-      "routePrefix": "/api",
-      "framework": "node"
-    }
-  }
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "buildCommand": "cd frontend && npm install && npm run build",
+  "outputDirectory": "frontend/dist"
 }
