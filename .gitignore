@@ -2,6 +2,8 @@ backend/node_modules/
 frontend/node_modules/
 backend/dist/
 frontend/dist/
+backend/.env
+frontend/.env
 
 package-lock.json
 backend/package-lock.json

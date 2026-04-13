@@ -1,16 +1,14 @@
 {
-  "experimental": {
-    "services": {
-      "frontend": {
-        "path": "frontend",
-        "routePrefix": "/",
-        "framework": "vite"
-      },
-      "backend": {
-        "path": "backend",
-        "routePrefix": "/api",
-        "framework": "node"
-      }
+  "services": {
+    "frontend": {
+      "path": "frontend",
+      "routePrefix": "/",
+      "framework": "vite"
+    },
+    "backend": {
+      "path": "backend",
+      "routePrefix": "/api",
+      "framework": "node"
     }
   }
 }
