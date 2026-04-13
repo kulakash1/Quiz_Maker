@@ -67,6 +67,10 @@ app.use('/api/user', userRoutes);
 
 app.get('/api/health', (_req, res) => res.json({ status: 'ok' }));
 
-app.listen(PORT, () => {
-  console.log(`Quiz Maker API running on http://localhost:${PORT}`);
-});
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log(`Quiz Maker API running on http://localhost:${PORT}`);
+  });
+}
+
+module.exports = app;
