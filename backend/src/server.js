@@ -3,10 +3,19 @@ const cors = require('cors');
 const path = require('path');
 const fs = require('fs');
 
-const authRoutes = require('./routes/auth');
-const adminRoutes = require('./routes/admin');
-const quizRoutes = require('./routes/quiz');
-const userRoutes = require('./routes/user');
+const authRoutesImport = require('./routes/auth');
+const adminRoutesImport = require('./routes/admin');
+const quizRoutesImport = require('./routes/quiz');
+const userRoutesImport = require('./routes/user');
+
+const authRoutes = authRoutesImport?.default || authRoutesImport;
+const adminRoutes = adminRoutesImport?.default || adminRoutesImport;
+const quizRoutes = quizRoutesImport?.default || quizRoutesImport;
+const userRoutes = userRoutesImport?.default || userRoutesImport;
+
+if (typeof authRoutes !== 'function' || typeof adminRoutes !== 'function' || typeof quizRoutes !== 'function' || typeof userRoutes !== 'function') {
+  throw new Error('One or more route handlers are not functions. Check route exports and module format.');
+}
 
 const app = express();
 const PORT = process.env.PORT || 5000;
